@@ -1,2 +1,3 @@
 # Programaci-n-1-SW
-Códigos 1
+Trabajos de la Semana 1
+
