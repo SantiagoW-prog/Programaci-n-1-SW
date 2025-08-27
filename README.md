@@ -1,3 +1,3 @@
 # Programaci-n-1-SW
-Trabajos de la Semana 1
+Este repositorio va a contener todos los archivos de lo trabajado en Programación 1
 
