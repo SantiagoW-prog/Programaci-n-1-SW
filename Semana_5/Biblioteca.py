@@ -18,6 +18,12 @@ while True:
 
     if opcion == "1":
         fn.cargar_titulos(titulos, ejemplares)
-   
+
+    if opcion == "2":
+        fn.mostrar_catalogo(titulos, ejemplares)
     
-   
+    if opcion == "3":
+        fn.disponibilidad(titulos, ejemplares)
+    
+    if opcion == "4":
+        fn.listar_agotados(titulos, ejemplares)
